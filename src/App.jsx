@@ -12,9 +12,12 @@ import OlMap from './Components/Map/Controls/OlMap/OlMap';
 import Home from './Components/Map/Controls/Home/Home';
 import ZoomIn from './Components/Map/Controls/ZoomIn/ZoomIn';
 import ZoomOut from './Components/Map/Controls/ZoomOut/ZoomOut';
+<<<<<<< HEAD
 import MousePosition from './Components/Map/Controls/MousePosition/MousePosition';
 import BaseMaps from './Components/Map/Controls/BaseMaps/BaseMaps';
 import ProductFilter from './Components/Map/Controls/ProductFilter/ProductFilter';
+=======
+>>>>>>> 54d46b511d9a59bb7bd731871fba1b1c9c5bb7f5
 
 
 function App() {
@@ -26,9 +29,12 @@ function App() {
 <Home />
 <ZoomIn />
 <ZoomOut />
+<<<<<<< HEAD
 <MousePosition />
 <BaseMaps />
 <ProductFilter />
+=======
+>>>>>>> 54d46b511d9a59bb7bd731871fba1b1c9c5bb7f5
           </div>
         );
     };
