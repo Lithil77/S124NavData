@@ -12,9 +12,30 @@ import OlMap from './Components/Map/Controls/OlMap/OlMap';
 import Home from './Components/Map/Controls/Home/Home';
 import ZoomIn from './Components/Map/Controls/ZoomIn/ZoomIn';
 import ZoomOut from './Components/Map/Controls/ZoomOut/ZoomOut';
+<<<<<<< HEAD
 import BaseMaps from './Components/Map/Controls/BaseMaps/BaseMaps';
 import MousePosition from './Components/Map/Controls/MousePosition/MousePosition';
 import ProductFilter from './Components/Map/Controls/ProductFilter/ProductFilter';
+=======
+<<<<<<< HEAD
+import BaseMaps from './Components/Map/Controls/BaseMaps/BaseMaps';
+import MousePosition from './Components/Map/Controls/MousePosition/MousePosition';
+import ProductFilter from './Components/Map/Controls/ProductFilter/ProductFilter';
+=======
+<<<<<<< HEAD
+import BaseMaps from './Components/Map/Controls/BaseMaps/BaseMaps';
+import MousePosition from './Components/Map/Controls/MousePosition/MousePosition';
+import ProductFilter from './Components/Map/Controls/ProductFilter/ProductFilter';
+=======
+<<<<<<< HEAD
+import MousePosition from './Components/Map/Controls/MousePosition/MousePosition';
+import BaseMaps from './Components/Map/Controls/BaseMaps/BaseMaps';
+import ProductFilter from './Components/Map/Controls/ProductFilter/ProductFilter';
+=======
+>>>>>>> 54d46b511d9a59bb7bd731871fba1b1c9c5bb7f5
+>>>>>>> ddde2ac67393345a1dbb6f98450501cf822e9435
+>>>>>>> 14119d932fdbf441ac86d868da2f940a1bf1948c
+>>>>>>> 4c50f42f192801067d07cb47f0ea2f1e30909cab
 
 
 function App() {
@@ -26,9 +47,30 @@ function App() {
 <Home />
 <ZoomIn />
 <ZoomOut />
+<<<<<<< HEAD
 <BaseMaps />
 <MousePosition />
 <ProductFilter />
+=======
+<<<<<<< HEAD
+<BaseMaps />
+<MousePosition />
+<ProductFilter />
+=======
+<<<<<<< HEAD
+<BaseMaps />
+<MousePosition />
+<ProductFilter />
+=======
+<<<<<<< HEAD
+<MousePosition />
+<BaseMaps />
+<ProductFilter />
+=======
+>>>>>>> 54d46b511d9a59bb7bd731871fba1b1c9c5bb7f5
+>>>>>>> ddde2ac67393345a1dbb6f98450501cf822e9435
+>>>>>>> 14119d932fdbf441ac86d868da2f940a1bf1948c
+>>>>>>> 4c50f42f192801067d07cb47f0ea2f1e30909cab
           </div>
         );
     };
