@@ -1,0 +1,37 @@
+.map-container {
+    width: auto;
+    position: relative;
+    overflow: hidden;
+}
+
+.main-content {
+    position: relative;
+    width: 100%;
+    padding: 0;
+    transition: padding-right 0.3s;
+    overflow-x: hidden;
+}
+
+.map-container.active {
+    margin-right: 350px;
+}
+
+.sideBar {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 350px;
+    height: 99.9vh;
+    background-color: #fff;
+    z-index: 1000;
+    transition: transform 0.3s ease;
+    overflow-y: auto;
+}
+
+.sideBar.active {
+    transform: translateX(0);
+}
+
+.sideBar:not(.active) {
+    transform: translateX(100%);
+}
